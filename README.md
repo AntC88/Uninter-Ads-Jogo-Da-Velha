@@ -1,9 +1,8 @@
 # Jogo-da-Velha
-__Jogo da velha feito em java
-Este é um projeto que foi feito para um trabalho da minha universidade. 
+__Jogo da velha feito em java.
 É um jogo simples de console que contempla 3 níveis da máquina.
 A realização dele me ajudou a fixar o conceito de orientação a objetos e herança.
-Fiz tudo de acordo com as requisições do trabalho, ao qual deixarei o enunciado exposto logo abaixo para que possa servir de base para futuros trabalhos semelhantes:__
+Fiz tudo de acordo com as requisições do trabalho da universidade, ao qual deixarei o enunciado exposto logo abaixo para que possa servir de base para futuros trabalhos semelhantes:__
 
 Desenvolva o tradicional jogo da velha em uma variante que enfrente um jogador
 COMPUTADOR. Link da descrição da wikipedia:

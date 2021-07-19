@@ -11,13 +11,16 @@ COMPUTADOR. Link da descrição da wikipedia:
 
 O jogo não precisa contar com interface gráfica, as coordenadas das jogadas
 podem ser informadas em modo texto.
--IMPORTANTE: Devem existir ao menos classes que representem: Jogador,
-Tabuleiro, Computador. Trabalhos que não possuam estas classes não
+
+-IMPORTANTE: Devem existir ao menos classes que representem: Jogador, Tabuleiro, Computador. Trabalhos que não possuam estas classes não
 receberão nota.
-Jogador: Deve controlar a leitura das jogadas do jogador humano
-Tabuleiro: Deve armazenar e controlar a condição do tabuleiro, saber responder
+
+*Jogador: Deve controlar a leitura das jogadas do jogador humano
+
+*Tabuleiro: Deve armazenar e controlar a condição do tabuleiro, saber responder
 se o jogo está empatado, vitória, derrota ou inacabado.
-Computador: Possui os métodos que controlam as jogadas da máquina.
+
+*Computador: Possui os métodos que controlam as jogadas da máquina.
 
 -IMPORTANTE: O adversário Computador deve possuir três níveis de
 dificuldade (por exemplo: ComputadorA, ComputadorB, ComputadorC), cada
